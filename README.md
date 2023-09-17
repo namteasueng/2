@@ -1,5 +1,5 @@
 >
-```java
+```
 let img;
 
 function preload() {
