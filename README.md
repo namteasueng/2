@@ -1,3 +1,5 @@
+>
+```java
 let img;
 
 function preload() {
@@ -57,3 +59,4 @@ function setup() {
   // 변환된 이미지를 그림
   image(img, 0, 0);
 }
+```
